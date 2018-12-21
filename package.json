@@ -1,0 +1,25 @@
+{
+  "name": "digitalvirgo",
+  "version": "1.0.0",
+  "description": "Digital Virgo Implementation for subscriptions management",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CatBia/ms-telco-implementations.git"
+  },
+  "keywords": [
+    "digitalvirgo"
+  ],
+  "author": "Bea Santos (beasantosdev@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatBia/ms-telco-implementations/issues"
+  },
+  "homepage": "https://github.com/CatBia/ms-telco-implementations#readme",
+  "dependencies": {
+    "node": "^11.4.0"
+  }
+}
